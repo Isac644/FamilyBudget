@@ -1,0 +1,23 @@
+# Maven output
+/target/
+
+# Eclipse project files
+/.classpath
+/.project
+/.settings/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+
+# IDE-specific
+*.iml
+.idea/
+*.swp
+
+# IntelliJ
+*.iws
+out/
